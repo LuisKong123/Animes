@@ -1,2 +1,38 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/portada_202310/Portada.jpg" group-title="Temporada 1", sentouin hakenshimasu cap 1
+https://archive.org/download/portada_202310/Sent.H.T1-12HDL4T..mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/portada_202310/Portada.jpg" group-title="Temporada 1", sentouin hakenshimasu cap 2
+https://archive.org/download/portada_202310/Sent.H.T1-2HDL4T..mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/portada_202310/Portada.jpg" group-title="Temporada 1", sentouin hakenshimasu cap 3
+https://archive.org/download/portada_202310/Sent.H.T1-3HDL4T..mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/portada_202310/Portada.jpg" group-title="Temporada 1", sentouin hakenshimasu cap 4
+https://archive.org/download/portada_202310/Sent.H.T1-4HDL4T..mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/portada_202310/Portada.jpg" group-title="Temporada 1", sentouin hakenshimasu cap 5
+https://archive.org/download/portada_202310/Sent.H.T1-5HDL4T..mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/portada_202310/Portada.jpg" group-title="Temporada 1", sentouin hakenshimasu cap 6
+https://archive.org/download/portada_202310/Sent.H.T1-6HDL4T..mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/portada_202310/Portada.jpg" group-title="Temporada 1", sentouin hakenshimasu cap 7
+https://archive.org/download/portada_202310/Sent.H.T1-7HDL4T..mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/portada_202310/Portada.jpg" group-title="Temporada 1", sentouin hakenshimasu cap 8
+https://archive.org/download/portada_202310/Sent.H.T1-8HDL4T..mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/portada_202310/Portada.jpg" group-title="Temporada 1", sentouin hakenshimasu cap 9
+https://archive.org/download/portada_202310/Sent.H.T1-9HDL4T..mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/portada_202310/Portada.jpg" group-title="Temporada 1", sentouin hakenshimasu cap 10
+https://archive.org/download/portada_202310/Sent.H.T1-10HDL4T..mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/portada_202310/Portada.jpg" group-title="Temporada 1", sentouin hakenshimasu cap 11
+https://archive.org/download/portada_202310/Sent.H.T1-11HDL4T..mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/portada_202310/Portada.jpg" group-title="Temporada 1", sentouin hakenshimasu cap 12
+https://archive.org/download/portada_202310/Sent.H.T1-12HDL4T..mp4
+
